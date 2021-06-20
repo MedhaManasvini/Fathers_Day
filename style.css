@@ -1,0 +1,48 @@
+
+#pa{
+    width: 600px;
+}
+body {
+    text-align: center;
+    background-color: magenta;
+    border: inset;
+    border-color: yellow;
+    color: purple;
+}
+body h1 {
+    color: purple;
+}
+
+body h3 {
+    color: blueviolet;
+}
+
+body h4 {
+    color: magenta;
+}
+
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+.container {
+    text-align: center;
+    background-color: aqua;
+}
+
+.carousel-inner p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: purple;
+    font-size: 30px;
+}
+
+#myCarousel {
+    background-color: magenta;
+    text-align: center;
+}
+#My_Img{
+    width: 400px;
+}
